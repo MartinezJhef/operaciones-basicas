@@ -1,1 +1,3 @@
 # Operacionesbásicas
+## Autor:
+Martinez Jheferson
